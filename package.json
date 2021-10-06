@@ -1,0 +1,7 @@
+{
+    "description": "Standard Peripheral Library for GD32 MCUs",
+    "name": "framework-cmsis-gd32",
+    "system": "all",
+    "url": "http://www.gd32mcu.com/en/download/",
+    "version": "2.2.1"
+}
